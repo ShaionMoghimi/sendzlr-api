@@ -1,0 +1,24 @@
+{
+  "name": "sendzlr-api",
+  "version": "1.0.0",
+  "description": "An api for the sendzlr website",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaionMoghimi/sendzlr-api.git"
+  },
+  "author": "Shaion Moghimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaionMoghimi/sendzlr-api/issues"
+  },
+  "homepage": "https://github.com/ShaionMoghimi/sendzlr-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.12.1"
+  }
+}
